@@ -1,5 +1,3 @@
-![Prithisha P S](public/profile-photo.png)
-
 # Prithisha P S
 
 **Computer Science and Design Student** | Kongu Engineering College
