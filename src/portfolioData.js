@@ -1,6 +1,6 @@
 export const portfolioData = {
   personal: {
-    name: 'Prithisha Sakthivel',
+    name: 'Prithisha P S',
     tagline: 'Computer Science and Design Student',
     course: 'B.E. Computer Science and Design',
     college: 'Kongu Engineering College',

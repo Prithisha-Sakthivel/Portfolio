@@ -1,4 +1,6 @@
-# Prithisha Sakthivel
+![Prithisha P S](public/profile-photo.png)
+
+# Prithisha P S
 
 **Computer Science and Design Student** | Kongu Engineering College
 
@@ -8,7 +10,7 @@ I'm a Computer Science and Design student who enjoys exploring technology and cr
 
 | | |
 | --- | --- |
-| **Name** | Prithisha Sakthivel |
+| **Name** | Prithisha P S |
 | **Degree** | B.E. Computer Science and Design |
 | **Institution** | Kongu Engineering College |
 | **Hometown** | Tiruchengode, India |
